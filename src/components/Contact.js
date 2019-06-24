@@ -38,7 +38,8 @@ export default class Contact extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-md-7 col-md-push-1">
+              
+              {/*<div className="col-md-7 col-md-push-1">
                 <div className="row">
                   <div className="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
                     <form action>
@@ -55,12 +56,12 @@ export default class Contact extends Component {
                         <textarea name id="message" cols={30} rows={7} className="form-control" placeholder="Message" defaultValue={""} />
                       </div>
                       <div className="form-group">
-                        <input type="submit" className="btn btn-primary btn-send-message" defaultValue="Send Message" />
+                        <input type="submit" className="btn btn-primary btn-send-message" defaultValue="Send Me ssage" />
                       </div>
                     </form>
                   </div>
                 </div>
-              </div>
+            </div>*/}
             </div>
           </div>
         </section>
